@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASWIN-PAULRAJ
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Zoho
 - 📫 How to reach me aswinjay250@gmail.com
 
